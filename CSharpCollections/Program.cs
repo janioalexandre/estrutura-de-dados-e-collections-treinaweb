@@ -1,3 +1,3 @@
 ﻿using CSharpCollections;
 
-AulaDicionarios.main();
+AulaPilhas.main();
